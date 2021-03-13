@@ -12,6 +12,6 @@ Operating System 2021-1 (Semester Genap 2020/2021)
 [Week8](W08/) | 
 [Week9](W09/) | 
 [Week10](W10/) | 
-[Rank](https://github.com/Etyaresa/0s211/blob/master/TXT/myrank.txt) |
+[Rank](https://github.com/Etyaresa/os211/blob/master/TXT/myrank.txt) |
 [Log](https://github.com/Etyaresa/os211/blob/master/TXT/mylog.txt) |
 [Github](https://github.com/Etyaresa/os211/)
