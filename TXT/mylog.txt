@@ -27,7 +27,7 @@ ZCZC W01  30 L18 Assignment #8
 ZCZC W02 100 L02 ZOOM related
 ZCZC W02   5 L01 SCELE related
 ZCZC W02  20 L06 Reading Week 2 slides
-ZCZC W02  15 L23 Discord: read discussion 
+ZCZC W02  30 L23 Discord: read discussion,pop quiz 
 ZCZC W02  60 L11 Assignment #1
 ZCZC W02  10 L13 Assignment #3
 ZCZC W02   5 L14 Assignment #4
@@ -38,3 +38,11 @@ ZCZC W02  15 L18 Assignment #8
 ZCZC W02   5 L19 Assignment #9
 ZCZC W02  10 L20 Assignment #10
 ZCZC W02  30 L09 Asdos: asking
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03   5 L01 SCELE related
+ZCZC W03  20 L06 Reading Week 2 slides
+ZCZC W03  60 L11 Assignment #1
+ZCZC W03  30 L05 GSGS related
+ZCZC W03   5 L13 Assignment #3
+ZCZC W03  20 L14 Assignment #4
+ZCZC W03   5 L16 Assignment #6
