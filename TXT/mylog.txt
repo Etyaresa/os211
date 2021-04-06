@@ -64,3 +64,7 @@ ZCZC W04  15 L12 Assignment #2
 ZCZC W04   5 L15 Assignment #5
 ZCZC W04  30 L23 Discord related
 ZCZC W04   5 L18 Assignment #8
+ZCZC W05 100 L02 ZOOM related
+ZCZC W05  10 L01 SCELE related
+ZCZC W05 270 L10 Assignment (General)
+ZCZC W05  15 L23 Discord related
