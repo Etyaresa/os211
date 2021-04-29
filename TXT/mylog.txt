@@ -72,3 +72,8 @@ ZCZC W06 100 L02 ZOOM related
 ZCZC W06   5 L01 SCELE related
 ZCZC W06 225 L10 Assignment (General)
 ZCZC W06   5 L23 Discord related
+ZCZC W07 100 L02 ZOOM related
+ZCZC W07  30 L01 SCELE related
+ZCZC W07  15 L05 GSGS related
+ZCZC W07 365 L10 Assignment (General)
+ZCZC W07   5 L23 Discord related
