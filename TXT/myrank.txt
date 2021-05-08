@@ -17,3 +17,6 @@ ZCZC W05 freezetabs
 ZCZC W06 Exqrch
 ZCZC W06 fadhilrasendriya
 ZCZC W06 fikriadidharma
+ZCZC W07 faishol01
+ZCZC W07 faustaadp
+ZCZC W07 freezetabs
