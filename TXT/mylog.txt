@@ -86,3 +86,7 @@ ZCZC W09  15 L01 SCELE related
 ZCZC W09  20 L05 GSGS related
 ZCZC W09  30 L05 Discord related
 ZCZC W09 680 Assignment (General)
+ZCZC W10  30 L01 SCELE related
+ZCZC W10  30 L05 GSGS related
+ZCZC W10   5 L05 Discord related
+ZCZC W10 220 Assignment (General)
